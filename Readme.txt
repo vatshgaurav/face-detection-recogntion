@@ -1,1 +1,0 @@
-Press 'q' to generate attendance list when testing image
